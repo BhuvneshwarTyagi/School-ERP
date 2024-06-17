@@ -60,7 +60,7 @@ The School ERP System is a comprehensive solution designed to manage various adm
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/school-erp-system.git
+    git clone https://github.com/BhuvneshwarTyagi/school-erp-system.git
     ```
 2. Navigate to the project directory:
     ```bash
